@@ -9,11 +9,6 @@ You can view the design prototype for the UTM Clinic Appointment System [here on
 
 <br /> 
 
-## 🖼️ AI Chatbox Interface Screenshots
-(Insert images or provide links to screenshots of the AI chatbox interface here.)
-
-<br />
-
 
 ## 📂 Project Setup Guidelines
 Follow these steps to set up and run the AI Chatbox code locally:
@@ -43,7 +38,9 @@ Follow these steps to set up and run the AI Chatbox code locally:
    ```
    http://localhost/AI-chatbox
    ```
-
+### If you are unable to access the website through the above steps, you may follow these steps
+1. Click on this link
+https://shiny-torrone-c808f7.netlify.app/ 
 ---
 
 Happy coding! 🚀
